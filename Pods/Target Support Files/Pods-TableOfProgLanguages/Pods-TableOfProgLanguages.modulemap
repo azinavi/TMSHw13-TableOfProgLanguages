@@ -1,0 +1,6 @@
+framework module Pods_TableOfProgLanguages {
+  umbrella header "Pods-TableOfProgLanguages-umbrella.h"
+
+  export *
+  module * { export * }
+}
